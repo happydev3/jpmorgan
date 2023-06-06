@@ -26,7 +26,7 @@ git clone https://github.com/happydev3/jpmorgan
 
 ```bash
 
-cd financial-table
+cd jpmorgan
 
 ```
 
