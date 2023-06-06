@@ -19,7 +19,7 @@ Make sure you have the following software installed on your system:
 
 ```bash
 
-git clone <repository-url>
+git clone https://github.com/happydev3/jpmorgan
 
 ```
 2. Change into the project directory:
